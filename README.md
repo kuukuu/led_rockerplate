@@ -13,5 +13,8 @@
 - 8.set your power zone at setRGB method.
 
 # demo
-https://twitter.com/kaa/status/1485603884265766918
-https://www.strava.com/activities/6574036423
+- demo movie on twitter.
+  - https://twitter.com/kaa/status/1485603884265766918
+- image on strava.
+  - https://www.strava.com/activities/6574036423
+
