@@ -12,6 +12,13 @@
 - 7.set your TARGET_CHARA
 - 8.set your power zone at setRGB method.
 
+# tested device
+- M5stack gray
+  M5stack official ver.1.0.6
+- WS2811 LED tape
+- 12V 3A ac adapter
+- wahoo kickr core
+- 
 # demo
 - demo movie on twitter.
   - https://twitter.com/kaa/status/1485603884265766918
