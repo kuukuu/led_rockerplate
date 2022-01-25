@@ -11,3 +11,7 @@
   - XXXXXX63-XXXXXXXX******  is power data.
 - 7.set your TARGET_CHARA
 - 8.set your power zone at setRGB method.
+
+# demo
+https://twitter.com/kaa/status/1485603884265766918
+https://www.strava.com/activities/6574036423
